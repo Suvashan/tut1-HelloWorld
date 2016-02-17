@@ -8,7 +8,7 @@ int  main()
 {
 
 
-	cout << "Hello World" << endl;
+	cout << "Hello John" << endl;
 	cout << "Today is Wednesday" << endl;
 	
 
